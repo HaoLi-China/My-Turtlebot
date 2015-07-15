@@ -1,0 +1,7 @@
+<library path="lib/libinteraction_view">
+
+  <class name="interaction_view/image" type="interaction_view::ImageNodelet" base_class_type="nodelet::Nodelet">
+    <description>Nodelet to view a sensor_msgs/Image topic</description>
+  </class>
+
+</library>
